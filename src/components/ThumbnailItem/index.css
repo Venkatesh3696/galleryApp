@@ -1,0 +1,16 @@
+/* Write your code here. */
+.thumbnail-item {
+  margin-right: 20px;
+}
+.button {
+  cursor: pointer;
+  background-color: transparent;
+  border-style: none;
+}
+.thumbnail-image {
+  width: 110px;
+  height: 110px;
+}
+.half-opacity {
+  opacity: 0.5;
+}
